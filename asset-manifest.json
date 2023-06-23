@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react_hooks_portfolio/static/css/main.a28fadab.css",
+    "main.js": "/react_hooks_portfolio/static/js/main.4e139a3d.js",
+    "static/js/787.6b7abe35.chunk.js": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js",
+    "static/media/01-big.png": "/react_hooks_portfolio/static/media/01-big.26351536f6ab527caaa8.png",
+    "static/media/02-big.png": "/react_hooks_portfolio/static/media/02-big.e3ff25cd9eb630f842dc.png",
+    "static/media/06-big.png": "/react_hooks_portfolio/static/media/06-big.e04c4d6ff0999b5f54ce.png",
+    "static/media/01.png": "/react_hooks_portfolio/static/media/01.7e00f0b1ae6cb1ff2325.png",
+    "static/media/03-big.png": "/react_hooks_portfolio/static/media/03-big.8e3c653d0380021e38a8.png",
+    "static/media/06.png": "/react_hooks_portfolio/static/media/06.258c30d0f57c61014fc5.png",
+    "static/media/02.png": "/react_hooks_portfolio/static/media/02.6b7342fecb415fe52415.png",
+    "static/media/05-big.png": "/react_hooks_portfolio/static/media/05-big.51300c848382914f6ba7.png",
+    "static/media/03.png": "/react_hooks_portfolio/static/media/03.05e834c78a2bfb287894.png",
+    "static/media/04-big.png": "/react_hooks_portfolio/static/media/04-big.9f53de94f732404ded20.png",
+    "static/media/header-bg.png": "/react_hooks_portfolio/static/media/header-bg.b4ef6a6d7805ac6532c8.png",
+    "static/media/05.png": "/react_hooks_portfolio/static/media/05.9bf2fb2ac60d9caa2024.png",
+    "static/media/04.png": "/react_hooks_portfolio/static/media/04.11a5b902d78b38c2e621.png",
+    "static/media/Sun.svg": "/react_hooks_portfolio/static/media/Sun.51393a375a81e44f27f1e33d713ca0ae.svg",
+    "static/media/Moon.svg": "/react_hooks_portfolio/static/media/Moon.a84eb240a8739f0ef02594df4c131706.svg",
+    "static/media/gitHub.svg": "/react_hooks_portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/react_hooks_portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/react_hooks_portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/twitter.svg": "/react_hooks_portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "index.html": "/react_hooks_portfolio/index.html",
+    "static/media/linkedIn.svg": "/react_hooks_portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "main.a28fadab.css.map": "/react_hooks_portfolio/static/css/main.a28fadab.css.map",
+    "main.4e139a3d.js.map": "/react_hooks_portfolio/static/js/main.4e139a3d.js.map",
+    "787.6b7abe35.chunk.js.map": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a28fadab.css",
+    "static/js/main.4e139a3d.js"
+  ]
+}
