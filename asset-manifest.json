@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/react_hooks_portfolio/static/css/main.a28fadab.css",
-    "main.js": "/react_hooks_portfolio/static/js/main.4e139a3d.js",
+    "main.js": "/react_hooks_portfolio/static/js/main.149fb425.js",
     "static/js/787.6b7abe35.chunk.js": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js",
+    "static/media/filmoteka-big.png": "/react_hooks_portfolio/static/media/filmoteka-big.b2c6830c9527deff69b2.png",
+    "static/media/ice-cream-big.png": "/react_hooks_portfolio/static/media/ice-cream-big.7a8287379eb85579abf9.png",
+    "static/media/your-pet-big.png": "/react_hooks_portfolio/static/media/your-pet-big.9edf3b307ff8131ba974.png",
     "static/media/01-big.png": "/react_hooks_portfolio/static/media/01-big.26351536f6ab527caaa8.png",
     "static/media/02-big.png": "/react_hooks_portfolio/static/media/02-big.e3ff25cd9eb630f842dc.png",
     "static/media/06-big.png": "/react_hooks_portfolio/static/media/06-big.e04c4d6ff0999b5f54ce.png",
@@ -10,6 +13,9 @@
     "static/media/03-big.png": "/react_hooks_portfolio/static/media/03-big.8e3c653d0380021e38a8.png",
     "static/media/06.png": "/react_hooks_portfolio/static/media/06.258c30d0f57c61014fc5.png",
     "static/media/02.png": "/react_hooks_portfolio/static/media/02.6b7342fecb415fe52415.png",
+    "static/media/filmoteka-small.png": "/react_hooks_portfolio/static/media/filmoteka-small.a9af1481110963fef5fc.png",
+    "static/media/ice-cream-small.png": "/react_hooks_portfolio/static/media/ice-cream-small.444187ac24f931c649e6.png",
+    "static/media/your-pet-small.png": "/react_hooks_portfolio/static/media/your-pet-small.81fb38f29e42ba8cdee7.png",
     "static/media/05-big.png": "/react_hooks_portfolio/static/media/05-big.51300c848382914f6ba7.png",
     "static/media/03.png": "/react_hooks_portfolio/static/media/03.05e834c78a2bfb287894.png",
     "static/media/04-big.png": "/react_hooks_portfolio/static/media/04-big.9f53de94f732404ded20.png",
@@ -25,11 +31,11 @@
     "index.html": "/react_hooks_portfolio/index.html",
     "static/media/linkedIn.svg": "/react_hooks_portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "main.a28fadab.css.map": "/react_hooks_portfolio/static/css/main.a28fadab.css.map",
-    "main.4e139a3d.js.map": "/react_hooks_portfolio/static/js/main.4e139a3d.js.map",
+    "main.149fb425.js.map": "/react_hooks_portfolio/static/js/main.149fb425.js.map",
     "787.6b7abe35.chunk.js.map": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a28fadab.css",
-    "static/js/main.4e139a3d.js"
+    "static/js/main.149fb425.js"
   ]
 }
