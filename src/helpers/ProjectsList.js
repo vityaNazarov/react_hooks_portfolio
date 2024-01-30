@@ -25,6 +25,9 @@ import project08Big from './../img/projects/ice-cream-big.png';
 import project09 from './../img/projects/your-pet-small.png';
 import project09Big from './../img/projects/your-pet-big.png';
 
+import project10 from './../img/projects/maven-group-small.jpg';
+import project10Big from './../img/projects/maven-group-big.jpg';
+
 const projects = [
   {
     title: 'Filmoteka',
@@ -90,6 +93,13 @@ const projects = [
     img: project06,
     imgBig: project06Big,
     gitHubLink: 'https://vityanazarov.github.io/goit-js-hw-08/',
+  },
+  {
+    title: 'E-com',
+    skills: 'Next JS, HTML, SCSS, ...',
+    img: project10,
+    imgBig: project10Big,
+    gitHubLink: 'https://maven-group.vercel.app/',
   },
 ];
 
