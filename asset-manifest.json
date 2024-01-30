@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/react_hooks_portfolio/static/css/main.a28fadab.css",
-    "main.js": "/react_hooks_portfolio/static/js/main.149fb425.js",
+    "main.js": "/react_hooks_portfolio/static/js/main.0abcd840.js",
     "static/js/787.6b7abe35.chunk.js": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js",
     "static/media/filmoteka-big.png": "/react_hooks_portfolio/static/media/filmoteka-big.b2c6830c9527deff69b2.png",
     "static/media/ice-cream-big.png": "/react_hooks_portfolio/static/media/ice-cream-big.7a8287379eb85579abf9.png",
     "static/media/your-pet-big.png": "/react_hooks_portfolio/static/media/your-pet-big.9edf3b307ff8131ba974.png",
+    "static/media/maven-group-big.jpg": "/react_hooks_portfolio/static/media/maven-group-big.f0f072ad60266fee2f03.jpg",
     "static/media/01-big.png": "/react_hooks_portfolio/static/media/01-big.26351536f6ab527caaa8.png",
     "static/media/02-big.png": "/react_hooks_portfolio/static/media/02-big.e3ff25cd9eb630f842dc.png",
     "static/media/06-big.png": "/react_hooks_portfolio/static/media/06-big.e04c4d6ff0999b5f54ce.png",
+    "static/media/maven-group-small.jpg": "/react_hooks_portfolio/static/media/maven-group-small.387f96f8a60ceeef18a8.jpg",
     "static/media/01.png": "/react_hooks_portfolio/static/media/01.7e00f0b1ae6cb1ff2325.png",
     "static/media/03-big.png": "/react_hooks_portfolio/static/media/03-big.8e3c653d0380021e38a8.png",
     "static/media/06.png": "/react_hooks_portfolio/static/media/06.258c30d0f57c61014fc5.png",
@@ -31,11 +33,11 @@
     "index.html": "/react_hooks_portfolio/index.html",
     "static/media/linkedIn.svg": "/react_hooks_portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "main.a28fadab.css.map": "/react_hooks_portfolio/static/css/main.a28fadab.css.map",
-    "main.149fb425.js.map": "/react_hooks_portfolio/static/js/main.149fb425.js.map",
+    "main.0abcd840.js.map": "/react_hooks_portfolio/static/js/main.0abcd840.js.map",
     "787.6b7abe35.chunk.js.map": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a28fadab.css",
-    "static/js/main.149fb425.js"
+    "static/js/main.0abcd840.js"
   ]
 }
