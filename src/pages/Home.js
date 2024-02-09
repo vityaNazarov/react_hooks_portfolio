@@ -59,10 +59,6 @@ const Home = () => {
     },
   ];
 
-  const qwe = qwe => {
-    console.log(qwe);
-  };
-
   return (
     <>
       <Header />
