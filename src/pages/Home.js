@@ -1,52 +1,104 @@
-import Header from "./../components/header/Header";
+import { NavLink } from 'react-router-dom';
+import Header from './../components/header/Header';
 
 const Home = () => {
+  const hardSkills = [
+    {
+      title: 'HTML',
+    },
+    {
+      title: 'CSS / (SASS)',
+    },
+    {
+      title: 'JavaScript',
+    },
+    {
+      title: 'TypeScript',
+    },
+    {
+      title: 'ReactJS',
+    },
+    {
+      title: 'GIT',
+    },
+    {
+      title: 'Responsive layout',
+    },
+    {
+      title: 'GitHub',
+    },
+    {
+      title: 'Rest API',
+    },
+    {
+      title: 'Trello',
+    },
+    {
+      title: 'MongoDB',
+    },
+    {
+      title: '...',
+    },
+  ];
+
+  const softSkills = [
+    {
+      title: 'Accurate',
+    },
+    {
+      title: 'Committed',
+    },
+    {
+      title: 'Cooperative',
+    },
+    {
+      title: 'Willingness to learn',
+    },
+    {
+      title: 'Teamwork',
+    },
+  ];
+
   return (
     <>
       <Header />
 
       <main className="section">
         <div className="container">
-          <h1 className="title-1">Tech skills</h1>
+          <h1 className="title-1">Hard skills</h1>
 
           <ul className="content-list">
-            <li className="content-list__item">
-              <h2 className="title-2">Frontend</h2>
-              <p>
-                JavaScript, TypeScript, ReactJS, React Hooks, Redux/Redux
-                toolkit, HTML, CSS, SASS, NPM, MaterialUI, StyledComponents,
-                Responsive layout, GIT, GitHub, Parcel, Webpack, Rest API,
-                Trello...
-              </p>
-            </li>
-            <li className="content-list__item">
-              <h2 className="title-2">Backend</h2>
-              <p>
-                NodeJS, MongoDB ,Mongoose, Postman, Express, HTTP, CORS, JWT,
-                Multer, Jest, Nodemailer, SendGrid, WebSockets
-              </p>
-            </li>
+            {hardSkills.map(item => (
+              <li className="hard-skills" key={item.title}>
+                {item.title}
+              </li>
+            ))}
           </ul>
 
           <h1 className="title-1 soft-skills">Soft skills</h1>
 
           <ul className="content-list">
-            <li className="content-list__item">
-              <p>
-                Accurate, Committed, Cooperative, Willingness to learn, Teamwork
-              </p>
-            </li>
+            {softSkills.map(item => (
+              <li className="soft-skill-title" key={item.title}>
+                {item.title}
+              </li>
+            ))}
           </ul>
 
           <h1 className="title-1 soft-skills">Languages</h1>
 
           <ul className="content-list">
             <li className="content-list__item">
-              <p>English - Intermediate</p>
-              <p>Ukrainian - Native</p>
-              <p className="pidorasi">Russian - Native</p>
+              <p className="language">English - Intermediate</p>
+              <p className="language">Ukrainian - Native</p>
+              <p className="pidorasi language">Russian - Native</p>
             </li>
           </ul>
+          <div className="btn-projects-link">
+            <NavLink to="/projects" className="btn ">
+              wiew my projects
+            </NavLink>
+          </div>
         </div>
       </main>
     </>

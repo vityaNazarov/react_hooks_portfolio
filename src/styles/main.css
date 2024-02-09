@@ -1,5 +1,5 @@
-@import "./reset.css";
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap");
+@import './reset.css';
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap');
 
 /*
 font-family: 'DM Sans', sans-serif;
@@ -51,7 +51,7 @@ html,
 body {
   min-height: 100vh;
 
-  font-family: "DM Sans", sans-serif;
+  font-family: 'DM Sans', sans-serif;
   letter-spacing: -0.5px;
 
   /* Light mode */
@@ -86,8 +86,13 @@ body {
   padding: 70px 0;
 }
 
+.hard-skills {
+  font-size: 25px;
+}
+
 .title-1 {
-  margin-bottom: 60px;
+  margin-top: 20px;
+  margin-bottom: 30px;
   text-align: center;
   font-size: 60px;
   font-weight: 700;
@@ -96,7 +101,11 @@ body {
 }
 
 .title-1.soft-skills {
-  margin-top: 60px;
+  margin-top: 20px;
+}
+
+.soft-skill-title {
+  font-size: 25px;
 }
 
 .title-2 {
@@ -203,12 +212,39 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  row-gap: 40px;
+  row-gap: 5px;
   text-align: center;
 }
 
 .content-list a {
   color: var(--accent);
+}
+
+.contact-list {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.contact-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-text {
+  color: var(--purple);
+  font-size: 25px;
+  transition: all 250ms ease-in-out;
+}
+.contact-text:hover {
+  color: var(--white);
+  transition: all 250ms ease-in-out;
+}
+
+.contact-img {
+  margin-right: 20px;
 }
 
 .content-list__item {
@@ -220,8 +256,39 @@ body {
   margin-top: 0.5;
 }
 
+.language {
+  font-size: 18px;
+}
+
 .pidorasi {
-  text-decoration: line-through;
+  /* text-decoration: line-through; */
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.contact-textarea {
+  width: 500px;
+  height: 150px;
+  background-color: #4a4a4a;
+  /* background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(50px); */
+  resize: none;
+  border-radius: 15px;
+  outline: none;
+  padding: 8px;
+  font-size: 20px;
+}
+
+.btn-projects-link {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
 }
 
 /* Media */

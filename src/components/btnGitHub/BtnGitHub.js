@@ -1,11 +1,10 @@
-import gitHubIcon from "./gitHub-black.svg";
-import "./style.css";
+import gitHubIcon from './gitHub-black.svg';
+import './style.css';
 
 const BtnGitHub = ({ link }) => {
   return (
     <a href={link} target="_blank" rel="noreferrer" className="btn-outline">
-      <img src={gitHubIcon} alt="" />
-      View full
+      <img src={gitHubIcon} alt="" />I wanna see
     </a>
   );
 };

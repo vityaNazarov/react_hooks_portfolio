@@ -21,7 +21,12 @@
   margin-right: auto;
   color: var(--header-text);
   font-size: 24px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
+  transition: all 250ms ease-in-out;
+}
+.logo:hover {
+  color: var(--accent);
+  transition: all 250ms ease-in-out;
 }
 
 .logo strong {
@@ -36,7 +41,7 @@
   column-gap: 40px;
   font-size: 16px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .nav-list__link {
@@ -53,7 +58,7 @@
 }
 
 .nav-list__link--active::before {
-  content: "";
+  content: '';
 
   position: absolute;
   left: 0;

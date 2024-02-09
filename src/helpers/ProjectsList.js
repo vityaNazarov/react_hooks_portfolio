@@ -30,6 +30,13 @@ import project10Big from './../img/projects/maven-group-big.jpg';
 
 const projects = [
   {
+    title: 'E-com',
+    skills: 'Next JS, HTML, SCSS, ...',
+    img: project10,
+    imgBig: project10Big,
+    gitHubLink: 'https://maven-group.vercel.app/',
+  },
+  {
     title: 'Filmoteka',
     skills: 'HTML, CSS, JS',
     img: project07,
@@ -67,6 +74,13 @@ const projects = [
     gitHubLink: 'https://vityanazarov.github.io/fairy-forest/',
   },
   {
+    title: 'Gallery',
+    skills: 'JS, HTML, CSS, SimpleLightbox',
+    img: project06,
+    imgBig: project06Big,
+    gitHubLink: 'https://vityanazarov.github.io/goit-js-hw-08/',
+  },
+  {
     title: 'Web Studio',
     skills: 'HTML, CSS, SASS, Parcel',
     img: project03,
@@ -86,20 +100,6 @@ const projects = [
     img: project05,
     imgBig: project05Big,
     gitHubLink: 'https://vityanazarov.github.io/goit-react-hw-05-movies/',
-  },
-  {
-    title: 'Gallery',
-    skills: 'JS, HTML, CSS, SimpleLightbox',
-    img: project06,
-    imgBig: project06Big,
-    gitHubLink: 'https://vityanazarov.github.io/goit-js-hw-08/',
-  },
-  {
-    title: 'E-com',
-    skills: 'Next JS, HTML, SCSS, ...',
-    img: project10,
-    imgBig: project10Big,
-    gitHubLink: 'https://maven-group.vercel.app/',
   },
 ];
 
