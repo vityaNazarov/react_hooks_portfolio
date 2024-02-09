@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_hooks_portfolio/static/css/main.a28fadab.css",
-    "main.js": "/react_hooks_portfolio/static/js/main.0abcd840.js",
+    "main.css": "/react_hooks_portfolio/static/css/main.17f0b18d.css",
+    "main.js": "/react_hooks_portfolio/static/js/main.58e1212b.js",
     "static/js/787.6b7abe35.chunk.js": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js",
     "static/media/filmoteka-big.png": "/react_hooks_portfolio/static/media/filmoteka-big.b2c6830c9527deff69b2.png",
     "static/media/ice-cream-big.png": "/react_hooks_portfolio/static/media/ice-cream-big.7a8287379eb85579abf9.png",
@@ -29,15 +29,15 @@
     "static/media/gitHub.svg": "/react_hooks_portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
     "static/media/gitHub-black.svg": "/react_hooks_portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
     "static/media/instagram.svg": "/react_hooks_portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
-    "static/media/twitter.svg": "/react_hooks_portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
     "index.html": "/react_hooks_portfolio/index.html",
     "static/media/linkedIn.svg": "/react_hooks_portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
-    "main.a28fadab.css.map": "/react_hooks_portfolio/static/css/main.a28fadab.css.map",
-    "main.0abcd840.js.map": "/react_hooks_portfolio/static/js/main.0abcd840.js.map",
+    "static/media/telegram.svg": "/react_hooks_portfolio/static/media/telegram.63c7538b2c52bef45a6dcf2b1758be29.svg",
+    "main.17f0b18d.css.map": "/react_hooks_portfolio/static/css/main.17f0b18d.css.map",
+    "main.58e1212b.js.map": "/react_hooks_portfolio/static/js/main.58e1212b.js.map",
     "787.6b7abe35.chunk.js.map": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a28fadab.css",
-    "static/js/main.0abcd840.js"
+    "static/css/main.17f0b18d.css",
+    "static/js/main.58e1212b.js"
   ]
 }
