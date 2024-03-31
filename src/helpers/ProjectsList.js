@@ -31,10 +31,10 @@ import project10Big from './../img/projects/maven-group-big.jpg';
 const projects = [
   {
     title: 'E-com',
-    skills: 'Next JS, HTML, SCSS, ...',
+    skills: 'Next JS, HTML, SCSS, i18n, Meta Pixel, Zustand ...',
     img: project10,
     imgBig: project10Big,
-    gitHubLink: 'https://maven-group.vercel.app/',
+    gitHubLink: 'https://maven-group.ua/',
   },
   {
     title: 'Filmoteka',

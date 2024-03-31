@@ -65,7 +65,7 @@ const Home = () => {
 
       <main className="section">
         <div className="container">
-          <h1 className="title-1">Hard skills</h1>
+          <h1 className="title-1">Technologies</h1>
 
           <ul className="content-list">
             {hardSkills.map(item => (
@@ -96,7 +96,7 @@ const Home = () => {
           </ul>
           <div className="btn-projects-link">
             <NavLink to="/projects" className="btn ">
-              wiew my projects
+              view my projects
             </NavLink>
           </div>
         </div>

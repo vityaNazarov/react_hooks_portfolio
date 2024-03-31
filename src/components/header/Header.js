@@ -16,8 +16,8 @@ const Header = () => {
           {/* <p>with passion for learning and creating</p> */}
         </div>
         <a
-          href="../../Nazarov-Victor.pdf"
-          download={'Nazarov-Victor.pdf'}
+          href="Nazarov-Victor.pdf"
+          download="Nazarov Victor.pdf"
           className="btn header__btn"
         >
           download CV
