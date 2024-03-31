@@ -16,12 +16,11 @@ const Header = () => {
           {/* <p>with passion for learning and creating</p> */}
         </div>
         <a
-          href="https://vityanazarov.github.io/my_Portfolio/"
-          target="_blank"
-          rel="noreferrer"
+          href="../../Nazarov-Victor.pdf"
+          download={'Nazarov-Victor.pdf'}
           className="btn header__btn"
         >
-          my CV
+          download CV
         </a>
       </div>
     </header>
