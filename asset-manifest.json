@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_hooks_portfolio/static/css/main.17f0b18d.css",
-    "main.js": "/react_hooks_portfolio/static/js/main.200c0d61.js",
+    "main.js": "/react_hooks_portfolio/static/js/main.40bc0c83.js",
     "static/js/787.6b7abe35.chunk.js": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js",
     "static/media/filmoteka-big.png": "/react_hooks_portfolio/static/media/filmoteka-big.b2c6830c9527deff69b2.png",
     "static/media/ice-cream-big.png": "/react_hooks_portfolio/static/media/ice-cream-big.7a8287379eb85579abf9.png",
@@ -33,11 +33,11 @@
     "static/media/linkedIn.svg": "/react_hooks_portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "static/media/telegram.svg": "/react_hooks_portfolio/static/media/telegram.63c7538b2c52bef45a6dcf2b1758be29.svg",
     "main.17f0b18d.css.map": "/react_hooks_portfolio/static/css/main.17f0b18d.css.map",
-    "main.200c0d61.js.map": "/react_hooks_portfolio/static/js/main.200c0d61.js.map",
+    "main.40bc0c83.js.map": "/react_hooks_portfolio/static/js/main.40bc0c83.js.map",
     "787.6b7abe35.chunk.js.map": "/react_hooks_portfolio/static/js/787.6b7abe35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17f0b18d.css",
-    "static/js/main.200c0d61.js"
+    "static/js/main.40bc0c83.js"
   ]
 }
