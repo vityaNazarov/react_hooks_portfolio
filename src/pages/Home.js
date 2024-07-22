@@ -4,38 +4,44 @@ import Header from './../components/header/Header';
 const Home = () => {
   const hardSkills = [
     {
-      title: 'HTML',
+      title: 'HTML, CSS/(SASS), TailwindCSS',
     },
+    // {
+    //   title: 'CSS / (SASS)',
+    // },
     {
-      title: 'CSS / (SASS)',
+      title: 'JavaScript, TypeScript',
     },
+    // {
+    //   title: 'TypeScript',
+    // },
     {
-      title: 'JavaScript',
-    },
-    {
-      title: 'TypeScript',
-    },
-    {
-      title: 'ReactJS',
+      title: 'ReactJS, NextJS',
     },
     {
       title: 'GIT',
     },
     {
-      title: 'Responsive layout',
+      title: 'CI/CD',
+    },
+    {
+      title: 'Responsive layout, Adaptive layout',
     },
     {
       title: 'GitHub',
     },
     {
-      title: 'Rest API',
+      title: 'Rest API, Trello, MongoDB',
     },
     {
-      title: 'Trello',
+      title: 'NodeJs, Express',
     },
-    {
-      title: 'MongoDB',
-    },
+    // {
+    //   title: 'Trello',
+    // },
+    // {
+    //   title: 'MongoDB',
+    // },
     {
       title: '...',
     },
@@ -43,20 +49,23 @@ const Home = () => {
 
   const softSkills = [
     {
-      title: 'Accurate',
+      title: 'Scrum and Agile',
     },
     {
-      title: 'Committed',
+      title: 'Accurate, Committed, Cooperative',
     },
+    // {
+    //   title: 'Committed',
+    // },
+    // {
+    //   title: 'Cooperative',
+    // },
     {
-      title: 'Cooperative',
+      title: 'Willingness to learn, Teamwork',
     },
-    {
-      title: 'Willingness to learn',
-    },
-    {
-      title: 'Teamwork',
-    },
+    // {
+    //   title: 'Teamwork',
+    // },
   ];
 
   return (

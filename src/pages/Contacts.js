@@ -102,7 +102,7 @@ const Contacts = () => {
         <h1 className="title-1">Contact me</h1>
 
         <ul className="contact-list">
-          <li className="contact-block">
+          {/* <li className="contact-block">
             <img
               className="contact-img"
               src={instagram}
@@ -118,7 +118,7 @@ const Contacts = () => {
             >
               <span className="contact-text">Instagram</span>
             </a>
-          </li>
+          </li> */}
 
           <li className="contact-block">
             <img

@@ -1,7 +1,7 @@
 import './style.css';
 
 import linkedIn from './../../img/icons/linkedIn.svg';
-import instagram from './../../img/icons/instagram.svg';
+// import instagram from './../../img/icons/instagram.svg';
 import gitHub from './../../img/icons/gitHub.svg';
 import telegram from './../../img/icons/telegram.svg';
 
@@ -20,7 +20,7 @@ const Footer = () => {
                 <img src={linkedIn} alt="Link" />
               </a>
             </li>
-            <li className="social__item">
+            {/* <li className="social__item">
               <a
                 href="https://www.instagram.com/_ulianchuck_/"
                 target="_blank"
@@ -28,7 +28,7 @@ const Footer = () => {
               >
                 <img src={instagram} alt="Link" />
               </a>
-            </li>
+            </li> */}
             <li className="social__item">
               <a
                 href="https://github.com/vityaNazarov"

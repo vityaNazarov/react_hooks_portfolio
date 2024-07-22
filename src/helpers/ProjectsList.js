@@ -28,7 +28,17 @@ import project09Big from './../img/projects/your-pet-big.png';
 import project10 from './../img/projects/maven-group-small.jpg';
 import project10Big from './../img/projects/maven-group-big.jpg';
 
+import project11 from './../img/projects/masha_portfolio_small.png';
+import project11Big from './../img/projects/masha_portfolio_big.png';
+
 const projects = [
+  {
+    title: 'Portfolio website',
+    skills: 'Next JS, HTML, CSS Modules ...',
+    img: project11,
+    imgBig: project11Big,
+    gitHubLink: 'https://masha-portfolio.vercel.app/',
+  },
   {
     title: 'E-com',
     skills: 'Next JS, HTML, SCSS, i18n, Meta Pixel, Zustand ...',
